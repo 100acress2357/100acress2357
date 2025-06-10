@@ -32,51 +32,51 @@
 
 <hr>
 
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/stargazers">
+<a href="https://github.com/100acress2357/awesome-github-profile-readme/stargazers">
   <img src="https://img.shields.io/github/stars/digiindia2025/awesome-github-profile-readme" alt="Stars Badge"/>
 </a>
 
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/network/members">
+<a href="https://github.com/100acress2357/awesome-github-profile-readme/network/members">
   <img src="https://img.shields.io/github/forks/digiindia2025/awesome-github-profile-readme" alt="Forks Badge"/>
 </a>
 
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/pulls">
+<a href="https://github.com/100acress2357/awesome-github-profile-readme/pulls">
   <img src="https://img.shields.io/github/issues-pr/digiindia2025/awesome-github-profile-readme" alt="Pull Requests Badge"/>
 </a>
 
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/issues">
+<a href="https://github.com/100acress2357/awesome-github-profile-readme/issues">
   <img src="https://img.shields.io/github/issues/digiindia2025/awesome-github-profile-readme" alt="Issues Badge"/>
 </a>
 
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/graphs/contributors">
+<a href="https://github.com/100acress2357/awesome-github-profile-readme/graphs/contributors">
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/digiindia2025/awesome-github-profile-readme?color=2b9348">
 </a>
 
 <!-- New badges -->
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/commits/main">
+<a href="https://github.com/100acress2357/awesome-github-profile-readme/commits/main">
   <img src="https://img.shields.io/github/last-commit/digiindia2025/awesome-github-profile-readme" alt="Last Commit Badge"/>
 </a>
 
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme">
+<a href="https://github.com/100acress2357/awesome-github-profile-readme">
   <img src="https://img.shields.io/github/repo-size/digiindia2025/awesome-github-profile-readme" alt="Repo Size Badge"/>
 </a>
 
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/releases">
+<a href="https://github.com/100acress2357/awesome-github-profile-readme/releases">
   <img src="https://img.shields.io/github/v/release/digiindia2025/awesome-github-profile-readme" alt="Latest Release Badge"/>
 </a>
 <!-- 3 more new badges -->
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme">
+<a href="https://github.com/100acress2357/awesome-github-profile-readme">
   <img src="https://img.shields.io/github/languages/count/digiindia2025/awesome-github-profile-readme" alt="Languages Count Badge"/>
 </a>
 
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme">
+<a href="https://github.com/100acress2357/awesome-github-profile-readme">
   <img src="https://img.shields.io/github/languages/top/digiindia2025/awesome-github-profile-readme" alt="Top Language Badge"/>
 </a>
 
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme">
+<a href="https://github.com/100acress2357/awesome-github-profile-readme">
   <img src="https://img.shields.io/github/watchers/digiindia2025/awesome-github-profile-readme?label=Watchers" alt="Watchers Badge"/>
 </a>
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme">
+<a href="https://github.com/100acress2357/awesome-github-profile-readme">
   <img src="https://img.shields.io/github/commit-activity/m/digiindia2025/awesome-github-profile-readme" alt="Commit Activity Badge"/>
 </a>
 
