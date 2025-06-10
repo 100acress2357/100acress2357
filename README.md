@@ -30,63 +30,111 @@
 ![Reddish](https://img.shields.io/badge/-Reddish-ff4757?style=flat-square&logoColor=white)
 
 
+---
+
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=100acress2357&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=100acress2357&theme=radical" />
+---
+
 <hr>
 
 <a href="https://github.com/100acress2357/awesome-github-profile-readme/stargazers">
-  <img src="https://img.shields.io/github/stars/digiindia2025/awesome-github-profile-readme" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/stars/100acress2357/awesome-github-profile-readme" alt="Stars Badge"/>
 </a>
 
 <a href="https://github.com/100acress2357/awesome-github-profile-readme/network/members">
-  <img src="https://img.shields.io/github/forks/digiindia2025/awesome-github-profile-readme" alt="Forks Badge"/>
+  <img src="https://img.shields.io/github/forks/100acress2357/awesome-github-profile-readme" alt="Forks Badge"/>
 </a>
 
 <a href="https://github.com/100acress2357/awesome-github-profile-readme/pulls">
-  <img src="https://img.shields.io/github/issues-pr/digiindia2025/awesome-github-profile-readme" alt="Pull Requests Badge"/>
+  <img src="https://img.shields.io/github/issues-pr/100acress2357/awesome-github-profile-readme" alt="Pull Requests Badge"/>
 </a>
 
 <a href="https://github.com/100acress2357/awesome-github-profile-readme/issues">
-  <img src="https://img.shields.io/github/issues/digiindia2025/awesome-github-profile-readme" alt="Issues Badge"/>
+  <img src="https://img.shields.io/github/issues/100acress2357/awesome-github-profile-readme" alt="Issues Badge"/>
 </a>
 
 <a href="https://github.com/100acress2357/awesome-github-profile-readme/graphs/contributors">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/digiindia2025/awesome-github-profile-readme?color=2b9348">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/100acress2357/awesome-github-profile-readme?color=2b9348">
 </a>
 
 <!-- New badges -->
 <a href="https://github.com/100acress2357/awesome-github-profile-readme/commits/main">
-  <img src="https://img.shields.io/github/last-commit/digiindia2025/awesome-github-profile-readme" alt="Last Commit Badge"/>
+  <img src="https://img.shields.io/github/last-commit/100acress2357/awesome-github-profile-readme" alt="Last Commit Badge"/>
 </a>
 
 <a href="https://github.com/100acress2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/repo-size/digiindia2025/awesome-github-profile-readme" alt="Repo Size Badge"/>
+  <img src="https://img.shields.io/github/repo-size/100acress2357/awesome-github-profile-readme" alt="Repo Size Badge"/>
 </a>
 
 <a href="https://github.com/100acress2357/awesome-github-profile-readme/releases">
-  <img src="https://img.shields.io/github/v/release/digiindia2025/awesome-github-profile-readme" alt="Latest Release Badge"/>
+  <img src="https://img.shields.io/github/v/release/100acress2357/awesome-github-profile-readme" alt="Latest Release Badge"/>
 </a>
 <!-- 3 more new badges -->
 <a href="https://github.com/100acress2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/languages/count/digiindia2025/awesome-github-profile-readme" alt="Languages Count Badge"/>
+  <img src="https://img.shields.io/github/languages/count/100acress2357/awesome-github-profile-readme" alt="Languages Count Badge"/>
 </a>
 
 <a href="https://github.com/100acress2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/languages/top/digiindia2025/awesome-github-profile-readme" alt="Top Language Badge"/>
+  <img src="https://img.shields.io/github/languages/top/100acress2357/awesome-github-profile-readme" alt="Top Language Badge"/>
 </a>
 
 <a href="https://github.com/100acress2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/watchers/digiindia2025/awesome-github-profile-readme?label=Watchers" alt="Watchers Badge"/>
+  <img src="https://img.shields.io/github/watchers/100acress2357/awesome-github-profile-readme?label=Watchers" alt="Watchers Badge"/>
 </a>
 <a href="https://github.com/100acress2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/commit-activity/m/digiindia2025/awesome-github-profile-readme" alt="Commit Activity Badge"/>
+  <img src="https://img.shields.io/github/commit-activity/m/100acress2357/awesome-github-profile-readme" alt="Commit Activity Badge"/>
 </a>
 
+<a href="https://github.com/100acress2357/awesome-github-profile-readme">
+  <img src="https://img.shields.io/github/issues-closed-raw/100acress2357/awesome-github-profile-readme" alt="Total Closed Issues Badge"/>
+</a>
+<hr>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=100acress2357&theme=radical" width="815" />
+
+<hr>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=100acress2357&theme=radical)<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=100acress2357&theme=radical&utcOffset=5" />
+
+<hr>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=100acress2357&theme=radical" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100acress2357&layout=compact&theme=radical&card_width=480)
+
+  <hr>
+  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=100acress2357&theme=radical&row=1&column=7)](https://github.com/100acress2357)
+ 
+<hr>
+
+  <div align="center">
+
+<table>
+  <tr>
+    <td align="left" style="background-color⚫; color:white; border:1px solid #444; border-radius:10px; padding:20px;">
+      <strong style="color:white;">Graduation</strong><br><br>
+      <img src="https://img.shields.io/badge/Education-B.Tech_Computer_Science-0d1117?style=flat-square&logoColor=white&color=blue"><br>
+      <img src="https://img.shields.io/badge/University-AKTU LUCKNOW-0d1117?style=flat-square&color=grey"><br>
+      <img src="https://img.shields.io/badge/Year-2021_–_2025-0d1117?style=flat-square&color=green">
+    </td>
+    <td width="50"></td>
+    <td align="center" style="background-color:#000000; color:white; border:1px solid #444; border-radius:10px; padding:20px;">
+      <strong style="color:white;">High School</strong><br><br>
+      <img src="https://img.shields.io/badge/HSC-Science_Stream-0d1117?style=flat-square&color=yellow"><br>
+      <img src="https://img.shields.io/badge/School-+2 HIGH SCHOOL BHABUA-0d1117?style=flat-square&color=orange"><br>
+      <img src="https://img.shields.io/badge/Year-2019_–_2021-0d1117?style=flat-square&color=green">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<hr>
 
 ## 🌐 Online Presence
 
-- 🔗 [*Portfolio Website](https://your-website.com) *(Showcase of my best work) 
-- 💼 [*LinkedIn*](https://www.linkedin.com/in/aman-tiwari-91b869225)  
-- 🐦 [*Twitter (X)*](https://x.com/amantiwari2357)  
-- 💻 [*GitHub*](https://github.com/digiindia2025)  
-- 📬 [*Email Me*](mailto:amankumartiwari5255@gmail.com)
+- 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)* 
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/aman-tiwari-91b869225)  
+- 🐦 [**Twitter (X)**](https://x.com/amantiwari2357)  
+- 💻 [**GitHub**](https://github.com/digiindia2025)  
+- 📬 [**Email Me**](mailto:amankumartiwari5255@gmail.com)
 
 <hr>
