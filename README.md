@@ -1,92 +1,58 @@
-<div align="center" style="position: relative; text-align: center;">
-
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHKGFktmHcACQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736432645926?e=1750896000&v=beta&t=JrIaLVZ3wq8K0Ao9xd3ZIJZDxUy5CvzW9q_QOF6Wsjw" alt="Full Stack Developer Banner" style="width:100%; border-radius:10px;"/>
-
-<h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3rem; background: rgba(0, 0, 0, 0.6); padding: 15px 30px; border-radius: 12px;">
-</h1>
+<div align="center">
+  <img src="https://your-banner-image-url.com" alt="Real Estate Banner" style="width:100%; border-radius:10px;"/>
+  <h1 style="margin-top: 20px;">🏢 Welcome to 100Acress — Real Estate Solutions</h1>
+  <p>We help you find your dream home, office, or investment space across India.</p>
 </div>
-<hr>
+
+---
+
+## 🏘️ Our Services
+
+- 🔍 Property Listings: Residential, Commercial, Plots
+- 📞 End-to-End Support: Site visits, legal advice, loan assistance
+- 🌐 Online Booking & Virtual Tours
+- 🧠 Real-time Market Insights & Investment Advice
+
+---
+
+## 🧑‍💻 Built With
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-![VPS](https://img.shields.io/badge/-VPS-black?style=flat-square&logo=linux)
-![Deployment](https://img.shields.io/badge/-Deployment-black?style=flat-square&logo=vercel)
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
-![Reddish](https://img.shields.io/badge/-Reddish-ff4757?style=flat-square&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
+---
 
-<hr>
+## 🌐 Live Project
 
-<a href="https://github.com/100acress2357/awesome-github-profile-readme/stargazers">
-  <img src="https://img.shields.io/github/stars/digiindia2025/awesome-github-profile-readme" alt="Stars Badge"/>
-</a>
+🚀 [Visit 100Acress Website](https://100acress.com)
 
-<a href="https://github.com/100acress2357/awesome-github-profile-readme/network/members">
-  <img src="https://img.shields.io/github/forks/digiindia2025/awesome-github-profile-readme" alt="Forks Badge"/>
-</a>
+---
 
-<a href="https://github.com/100acress2357/awesome-github-profile-readme/pulls">
-  <img src="https://img.shields.io/github/issues-pr/digiindia2025/awesome-github-profile-readme" alt="Pull Requests Badge"/>
-</a>
+## 📊 Project Stats
 
-<a href="https://github.com/100acress2357/awesome-github-profile-readme/issues">
-  <img src="https://img.shields.io/github/issues/digiindia2025/awesome-github-profile-readme" alt="Issues Badge"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+</p>
 
-<a href="https://github.com/100acress2357/awesome-github-profile-readme/graphs/contributors">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/digiindia2025/awesome-github-profile-readme?color=2b9348">
-</a>
+---
 
-<!-- New badges -->
-<a href="https://github.com/100acress2357/awesome-github-profile-readme/commits/main">
-  <img src="https://img.shields.io/github/last-commit/digiindia2025/awesome-github-profile-readme" alt="Last Commit Badge"/>
-</a>
+## 🧭 About Us
 
-<a href="https://github.com/100acress2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/repo-size/digiindia2025/awesome-github-profile-readme" alt="Repo Size Badge"/>
-</a>
+100Acress is a leading property tech startup committed to simplifying real estate for modern buyers. Whether you’re looking for residential plots or corporate office spaces, our technology and expert team are here to support you.
 
-<a href="https://github.com/100acress2357/awesome-github-profile-readme/releases">
-  <img src="https://img.shields.io/github/v/release/digiindia2025/awesome-github-profile-readme" alt="Latest Release Badge"/>
-</a>
-<!-- 3 more new badges -->
-<a href="https://github.com/100acress2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/languages/count/digiindia2025/awesome-github-profile-readme" alt="Languages Count Badge"/>
-</a>
+---
 
-<a href="https://github.com/100acress2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/languages/top/digiindia2025/awesome-github-profile-readme" alt="Top Language Badge"/>
-</a>
+## 📬 Contact Us
 
-<a href="https://github.com/100acress2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/watchers/digiindia2025/awesome-github-profile-readme?label=Watchers" alt="Watchers Badge"/>
-</a>
-<a href="https://github.com/100acress2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/commit-activity/m/digiindia2025/awesome-github-profile-readme" alt="Commit Activity Badge"/>
-</a>
+- 📞 Phone: +91-9876543210
+- 📧 Email: info@100acress.com
+- 🌍 [Website](https://100acress.com)
+- 💼 [LinkedIn](https://linkedin.com/company/100acress)
+- 🏙️ [Instagram](https://instagram.com/100acress)
 
+---
 
-## 🌐 Online Presence
-
-- 🔗 [*Portfolio Website](https://your-website.com) *(Showcase of my best work) 
-- 💼 [*LinkedIn*](https://www.linkedin.com/in/aman-tiwari-91b869225)  
-- 🐦 [*Twitter (X)*](https://x.com/amantiwari2357)  
-- 💻 [*GitHub*](https://github.com/digiindia2025)  
-- 📬 [*Email Me*](mailto:amankumartiwari5255@gmail.com)
-
-<hr>
