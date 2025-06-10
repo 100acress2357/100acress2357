@@ -35,18 +35,41 @@
 
 ---
 
+### 🚀 Projects (Featured)
+
+> 💡 *Tip: Highlight your top 3–6 GitHub repositories or live projects here!*
+
+- 🔥 [**Project Name**](https://github.com/digiindia2025/your-project) — Short description of what this does
+- 🌐 [**Your Portfolio**](https://your-website.com) — Showcase of your best frontend + backend projects
+- 📦 [**NPM Package (if any)**](https://npmjs.com/...) — Something reusable or public
+
+---
+
 ### 📊 GitHub Stats & Analytics
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical&card_width=480)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digiindia2025&theme=radical&utcOffset=5" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical&card_width=480" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digiindia2025&theme=radical&utcOffset=5" alt="Productive Time" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=digiindia2025&theme=radical&row=1&column=7)](https://github.com/digiindia2025)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=digiindia2025&theme=radical&row=2&column=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
